@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey!!",
+  "name": "Taniya",
+  "greetingText": "You are really cute btw!",
+  "wishText": "May all your dreams comes true :)",
+  "imagePath": "img/test2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realized, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special to me",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!!",
+  "outroText": "Okay, bye for now tell me latter if you liked it or not.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
